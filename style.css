@@ -37,6 +37,7 @@
 }
 
 .star-rating input {
+  cursor: pointer;
   -moz-appearance: none;
   -webkit-appearance: none;
   opacity: 0;
@@ -55,6 +56,7 @@
 }
 
 .star-rating i~i {
+  
   width: 20%;
 }
 
@@ -172,10 +174,12 @@ span.scale-rating label:before {
 
 /* END OF STAR RATING */
 #Questionss b {
+  
   font-size: 15px;
 }
 
 #Text p {
+  
   font-size:12px
 }
 
@@ -197,8 +201,9 @@ body {
 
 .table1 {
   border: 1px solid #A9A9A9;
-  background-color: #F8F8F8;
+  background-color: #F9F9F9;
 }
+
 
 a {
   font-family: "Raleway", sans-serif;
@@ -340,5 +345,18 @@ h2 span {
   width: 100%;
   resize: vertical;
 }
+
+#Outros {
+  cursor: pointer;
+}
+
+#Prazo { cursor: pointer;
+}
+
+#Canais1 {
+  cursor: pointer;
+}
+
+
 
 /* STAR RATING */
